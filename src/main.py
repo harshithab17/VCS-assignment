@@ -1,6 +1,7 @@
 def greet():
     print("Hello! This is my Phase 1 Git project file.")
     print("Final merged UI version")
+    print("This line is for PR demonstration")
 
 tasks = ["Study VCS", "Do assignment", "Push to GitHub"]
 print("Today's tasks:", tasks)
