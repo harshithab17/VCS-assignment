@@ -7,6 +7,4 @@ def greet():
     tasks = ["Study VCS", "Do assignment", "Push to GitHub"]
     print("Today's tasks:", tasks)
 
-
-if __name__ == "__main__":
-    greet()
+# Copilot: Write a helper function that checks if a task list is empty
