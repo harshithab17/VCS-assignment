@@ -3,8 +3,10 @@ def greet():
     print("Final merged UI version")
     print("This line is for PR demonstration")
 
-tasks = ["Study VCS", "Do assignment", "Push to GitHub"]
-print("Today's tasks:", tasks)
+    # New enhancement: task list
+    tasks = ["Study VCS", "Do assignment", "Push to GitHub"]
+    print("Today's tasks:", tasks)
+
 
 if __name__ == "__main__":
     greet()
